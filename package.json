@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanalif113/weather-api-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/evanalif113/weather-api-example/issues"
+  },
+  "homepage": "https://github.com/evanalif113/weather-api-example#readme"
 }
