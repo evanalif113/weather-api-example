@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const mysql = require('mysql2');
 
 const app = express();
-const port = 3000;
+const port = 2518;
 
 // ===== Middleware =====
 // parse application/x-www-form-urlencoded
